@@ -1,0 +1,10 @@
+.pessoaContainer{
+    background-color: rgb(255, 255, 255);
+    border: 1px SOLID rgb(255, 161, 239);
+}
+
+.pessoaContent{
+    color: rgb(223, 101, 211);
+    background-color: rgb(255, 176, 252);
+    margin: 0
+}
